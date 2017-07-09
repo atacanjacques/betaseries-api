@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["atacan.jacques@gmail.com"]
 
   spec.summary       = %q{Betaseries API gem}
-  spec.description   = %q{Betaseries API gem}
+  spec.description   = %q{A gem to use the Betaseries website API}
   spec.homepage      = "https://github.com/atacanjacques/betaseries-api"
   spec.license       = "MIT"
 
