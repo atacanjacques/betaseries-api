@@ -7,12 +7,12 @@ Clone this projects, then :
 ```sh
 gem build betaseries-api.gemspec
 gem install betaseries-api
-irb
 ```
 
 # Demo
 
 ```sh
+irb
 require 'betaseries/api'
 show = Betaseries::Api.search("Futurama")
 id = show["id"]
