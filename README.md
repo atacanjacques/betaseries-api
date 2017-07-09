@@ -2,6 +2,8 @@
 
 # Installation
 
+Clone this projects, then :
+
 ```sh
 gem build betaseries-api.gemspec
 gem install betaseries-api
